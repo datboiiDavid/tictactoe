@@ -1,5 +1,10 @@
 
 
+let sign = "x" ;
+let count = 0; 
+let end = false
+
+
 
 
 
